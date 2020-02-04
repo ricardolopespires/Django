@@ -1,14 +1,20 @@
-# Título do projeto
+# Django One
+
+
+![](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto/gigs/105085099/original/41dd8d734b59b8a28144b54f03058f12cccdfa88/do-everything-related-to-python-django.png)
 
 Um parágrafo da descrição do projeto está aqui
 
 ## Começando
 
-Essas instruções fornecerão uma cópia do projeto em execução na sua máquina local para fins de desenvolvimento e teste. Consulte implantação para obter notas sobre como implantar o projeto em um sistema ativo.
+Desenvovimento de app com  instruções fornecida uma cópia do projeto em execução na sua máquina local para fins de desenvolvimento e teste. Consulte implantação para obter notas sobre como implantar o projeto em um sistema ativo.
 
 ### Pré-requisitos
 
 O que você precisa para instalar o software e como instalá-lo
+python 3.6
+django 2.0
+Pillow
 
 `` ``
 Dar exemplos
