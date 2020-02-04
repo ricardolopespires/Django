@@ -15,8 +15,8 @@
 ## Construído com:
 
 * Python 3.6.4
-* Django Framework 2.0.4
-* Modelos CoreUI
+* Django  2.0.4
+* Pillow
 
 ## Contribuindo
 
