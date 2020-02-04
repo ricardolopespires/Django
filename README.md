@@ -17,7 +17,8 @@ django 2.0
 Pillow
 
 `` ``
-Dar exemplos
+pip install django==20.0.5
+pip install pillow
 `` ``
 
 ### Instalando
