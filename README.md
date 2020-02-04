@@ -1,60 +1,87 @@
-# Nome do Projeto
-> Resumo curto sobre o que seu produto faz.
+# Título do projeto
 
-[! [Versão NPM] [npm-image]] [npm-url]
-[! [Status da compilação] [imagem da travis]] [url da travis]
-[! [Estatísticas de downloads] [npm-downloads]] [npm-url]
+Um parágrafo da descrição do projeto está aqui
 
-Declaração de um a dois parágrafos sobre o seu produto e o que ele faz.
+## Começando
 
-! [] (header.png)
+Essas instruções fornecerão uma cópia do projeto em execução na sua máquina local para fins de desenvolvimento e teste. Consulte implantação para obter notas sobre como implantar o projeto em um sistema ativo.
 
-`
+### Pré-requisitos
 
-## Exemplo de uso
+O que você precisa para instalar o software e como instalá-lo
 
-Alguns exemplos motivadores e úteis de como seu produto pode ser usado. Apimente isso com blocos de código e potencialmente mais capturas de tela.
+`` ``
+Dar exemplos
+`` ``
 
-_Para mais exemplos e uso, consulte o [Wiki] [wiki] ._
+### Instalando
 
-## Configuração de desenvolvimento
+Uma série de exemplos passo a passo que mostram como obter um ambiente de desenvolvimento em execução
 
-Descreva como desenvolvimento e como executar algum conjunto de testes automatizado. Faça isso potencialmente para várias plataformas django.
+Diga qual será o passo
 
+`` ``
+Dê o exemplo
+`` ``
 
-## Meta
+E repita
 
-Seu nome - [@YourTwitter] () - YourEmail@example.com
+`` ``
+até terminar
+`` ``
 
+Termine com um exemplo de como retirar alguns dados do sistema ou usá-los para uma pequena demonstração
+
+## Executando os testes
+
+Explique como executar os testes automatizados para este sistema
+
+### Divida em testes de ponta a ponta
+
+Explique o que esses testes testam e por que
+
+`` ``
+Dê um exemplo
+`` ``
+
+### E testes de estilo de codificação
+
+Explique o que esses testes testam e por que
+
+`` ``
+Dê um exemplo
+`` ``
+
+## Desdobramento, desenvolvimento
+
+Adicione notas adicionais sobre como implantar isso em um sistema ativo
+
+## Construído com
+
+* [Dropwizard] () - A estrutura da web usada
+* [Maven] () - Gerenciamento de dependências
+* [ROMA] () - Usado para gerar feeds RSS
 
 ## Contribuindo
 
-1. Bifurque-o (<https://github.com/yourname/yourproject/fork>)
-2. Crie sua ramificação de recursos (`git checkout -b feature / fooBar`)
-3. Confirme suas alterações (`git commit -am 'Adicione um pouco de fooBar' ')
-4. Pressione para a ramificação (`git push origin feature / fooBar`)
-5. Crie uma nova solicitação de recebimento
+Leia [CONTRIBUTING.md] () para obter detalhes sobre nosso código de conduta e o processo para enviar solicitações pull para nós.
 
-<! - Link Markdown e img dfn's ->
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/yourname/yourproject/wiki
+## Controle de versão
 
+Usamos [git] () para versionar. Para as versões disponíveis, consulte as [tags neste repositório] (https://github.com/your/project/tags).
 
-Distributed under the XYZ license. See ``LICENSE`` for more information.
+## Autores
 
+* ** Ricard lopes pires ** - * Trabalho inicial * - [] ()
 
+Veja também a lista de [colaboradores] (https://github.com/your/project/contributors) que participaram deste projeto.
 
-## Contributing
+## Licença
 
-1. Fork it ()
-2. Create your feature branch ()
-3. Commit your changes ()
-4. Push to the branch ()
-5. Create a new Pull Request
+Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE.md] (LICENSE.md) para obter detalhes
 
-<!-- Markdown link & img dfn's -->
+## Agradecimentos
 
+* Gorjeta para qualquer pessoa cujo código foi usado
+* Inspiração
+* etc
