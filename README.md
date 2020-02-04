@@ -1,7 +1,7 @@
 # PROJETO DJANGO COM GERENCIAMENTO DE PROJETOS
 
 ** Construído com Python e Django. **
-
+![Django-logo](https://github.com/ricardolopespires/Django/blob/master/django.png)
 ## Recursos
 
 
