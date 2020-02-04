@@ -1,9 +1,5 @@
 # Django One
-
-
-![](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto/gigs/105085099/original/41dd8d734b59b8a28144b54f03058f12cccdfa88/do-everything-related-to-python-django.png)
-
-Um parágrafo da descrição do projeto está aqui
+> Desenvolvimento app Django.
 
 ## Começando
 
