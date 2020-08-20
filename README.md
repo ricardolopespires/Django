@@ -1,7 +1,14 @@
 # PROJETO DJANGO COM GERENCIAMENTO DE PROJETOS
-
+<p align = left>
+<img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/ricardolopespires/Django" />
+ <img alt="" src="https://img.shields.io/github/repo-size/ricardolopespires/Django" />
+</p>
+<br>
 ** Construído com Python e Django. **
-![Django-logo](https://github.com/ricardolopespires/Django/blob/master/django.png)
+<p aling = 'rigth'>
+![Django-logo](https://github.com/ricardolopespires/Django/blob/master/django.png width = 250)
+
+</p>
 ## Recursos
 
 
