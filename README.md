@@ -1,7 +1,7 @@
 # PROJETO DJANGO COM GERENCIAMENTO DE PROJETOS
 <p align = left'>
 
-
+![GitHub language count](https://img.shields.io/github/languages/count/ricardolopespires/Django?style=social)
 <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/ricardolopespires/Django" />
 <img alt="" src="https://img.shields.io/github/repo-size/ricardolopespires/Django" />
 <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/ricardolopespires/Django" />
