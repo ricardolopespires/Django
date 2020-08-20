@@ -1,7 +1,7 @@
 # PROJETO DJANGO COM GERENCIAMENTO DE PROJETOS
 <p align = left'>
                 
-![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/Django/Django?style=plastic)
+ <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/Django">
 <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/ricardolopespires/Django" />
 <img alt="" src="https://img.shields.io/github/repo-size/ricardolopespires/Django" />
 <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/ricardolopespires/Django" />
