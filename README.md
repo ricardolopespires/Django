@@ -1,5 +1,6 @@
 # PROJETO DJANGO COM GERENCIAMENTO DE PROJETOS
 <p align = left'>
+[![](https://img.shields.io/pypi/v/pinax-badges.svg)](https://pypi.python.org/pypi/pinax-badges/)
 <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/ricardolopespires/Django" />
 <img alt="" src="https://img.shields.io/github/repo-size/ricardolopespires/Django" />
 <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/ricardolopespires/Django" />
