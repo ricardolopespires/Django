@@ -1,4 +1,4 @@
-# PROJETO DJANGO COM GERENCIAMENTO DE PROJETOS (DJANGO PROJECT WITH PROJECT MANAGEMENT)
+#DJANGO PROJECT DEVELOPMENT - "DESENVOLVIMENTO DE PROJETOS DJANGO" 
 <p align = left'>
     <img alt="PyPI - Django Version" src="https://img.shields.io/pypi/djversions/djangorestframework">
     <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/Django">
