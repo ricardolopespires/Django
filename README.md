@@ -9,7 +9,7 @@
     <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/ricardolopespires/Django" />
 </p>
 
-<img align = right src="https://github.com/ricardolopespires/Django/blob/master/django.png" width = 250/>
+<img align = right src="https://github.com/ricardolopespires/Django/blob/master//banner-django.png" width = 250/>
 <br>
 ** Construído com Python e Django. **
 **Built with Python and Django.**
