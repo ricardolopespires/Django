@@ -14,7 +14,7 @@
 
 <br>
 
-**Built with Html5 and Css3.**
+**Built with Python and Django.**
 
 
 
