@@ -13,8 +13,8 @@
 
 
 <br>
-** Construído com Python e Django. **
-**Built with Python and Django.**
+
+**Built with Html5 and Css3.**
 
 
 
